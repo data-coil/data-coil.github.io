@@ -121,3 +121,9 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6J2NKQ41TS"
+    anonymize_ip: false # default
