@@ -15,5 +15,5 @@ We will cover contents that will help those persons who are already on Data fiel
 Just mail us on `thedatacoil<at>gmail.com`.
 
 ## How to stay updated with us?
-Best answer is, please subscribe our YouTube Channel and keep notified.
+Best answer is, please subscribe our [YouTube Channel](https://www.youtube.com/channel/UCbE2aft-tZPrx93SvyGDkhQ) and keep notified.
 
