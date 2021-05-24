@@ -14,7 +14,7 @@ header:
 
 (Teaser Image taken from [here](http://www.stoimen.com/tag/lossy-compression/).)
 
-**Originally published on [q-viper.github.io](https://q-viper.github.io/2021/05/24/coding-run-length-encoding-in-python/)
+**Originally published on [q-viper.github.io](https://q-viper.github.io/2021/05/24/coding-run-length-encoding-in-python/)**
 
 Data compression is very important part of our digital world where we have tons of files with huge size. Now we have better and bigger quality data, specially, image. Most of smartphones have better quality camera and the picture taken from those takes more storage too. With more complex pixel combinations, more storage is taken. There are different compression algorithms like JPEG and PNG but my task here is to explain little bit about Lossless Compression using Run Length Encoding. The term lossless means there should not be any loss of data.
 
