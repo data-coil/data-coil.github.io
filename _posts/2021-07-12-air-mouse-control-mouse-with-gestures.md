@@ -9,7 +9,7 @@ tags:
   - Computer Vision
   - Image Processing
 header:
-  teaser: assets/air-mouse/gesture.jpg
+  teaser: assets/air-mouse/thumbnail.png
 ---
 # Air Mouse: Doing Mouse Operations Using Finger Gestures
 Hey surfer, in this blog, I am going to write about how can we do basic mouse operations like move pointer, click, double click and right click using only finger gestures. There is also a video version of this blog at [YouTube](https://youtu.be/V-F94Pl8Bf0). 
