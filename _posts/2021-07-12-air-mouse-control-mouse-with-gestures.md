@@ -14,6 +14,8 @@ header:
 # Air Mouse: Doing Mouse Operations Using Finger Gestures
 Hey surfer, in this blog, I am going to write about how can we do basic mouse operations like move pointer, click, double click and right click using only finger gestures. There is also a video version of this blog at [YouTube](https://youtu.be/V-F94Pl8Bf0). 
 
+**Originally Published at [q-viper.github.io](https://q-viper.github.io).**
+
 ## Introduction
 As the project name Air Mouse, it is a Computer Mouse except working by the Gestures of fingers. We will be using 2 python libraries, mouse and Mediapipe. Mouse is a library to do mouse operations like click, drag, release and so on. We will be using [Hand Module of Mediapipe](https://google.github.io/mediapipe/solutions/hands.html) a OpenSource tool to extract the landmarks of hand and fingers. But it have multiple modules like selfie segmentation, pose estimation, face detection etc.
 
